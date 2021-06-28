@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(248, 193, 116);
+}
+.Rocky{
+    margin:4px;
+    text-align:center;
+}
+.calContainer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    width: 45%;
+    background-color: blanchedalmond;
+    margin:auto;
+    text-align: center;
+    padding: 30px;
+    margin-top: 5%;
+    border: 2px solid rgb(230, 156, 54);
+    border-radius: 5px;
+    box-shadow: 5px 7px rgb(87, 81, 74);
+}
+.calContainer input{
+    border-radius: 5px;
+    padding: 0.5rem;
+}
+.btn{
+    padding: 5px;
+    background-color: sandybrown;
+    margin: 2px;
+    border-radius: 5px;
+}
+.danger{
+    color: red;
+}
+.color{
+    background-color: yellow;
+}
+.color1{
+    background: linear-gradient(rgb(168, 13, 13),red);
+}
+.color2{
+    background-color: greenyellow;
+}
